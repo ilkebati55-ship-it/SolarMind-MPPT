@@ -1,5 +1,3 @@
-# SolarMind-MPPT
-Firmware code, circuit schematics, and experimental datasets for SolarMind smart solar optimizer.
 # SolarMind-MPPT ☀️🔋
 
 Microcontroller-based Maximum Power Point Tracking (MPPT) firmware and experimental analysis framework designed to optimize solar panel efficiency under dynamic partial-shading conditions.
